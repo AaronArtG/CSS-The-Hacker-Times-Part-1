@@ -5,7 +5,10 @@ body{
     background-color: #eee;
 
 }
-
+.big-picture{
+    display: block;
+    width:100%;
+}
 header h1{
     font-family:Abril Fatface;
     text-align: center;
@@ -13,17 +16,20 @@ header h1{
     margin: 2%;
 
 }
+main, {
+margin: 2px 10px 2px 20px;
 
+}
 h2{
     font-family:Roboto Slab;
     
 }
 h4{
-    font-size:larger
+    font-size:larger;
 }
 
 h5{
-    color:#dd3232
+    color:#dd3232;
 }
 
 .newspaper-container{
@@ -46,9 +52,7 @@ a{
     color:#777;
     font-size: small;
 }
-p{
-    margin:4% 3% ;
-}
+
 section{
     display:inline-block;
     width: 42%;
