@@ -40,6 +40,12 @@ h5{
     Padding:2%;
     margin:3% 15%;
 }
+nav{
+    position: sticky;
+    top:0;
+    background-color: #eee;
+    width:100%;
+}
 ul li{
     text-decoration: none;
     display: inline-block;
